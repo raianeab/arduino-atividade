@@ -36,3 +36,31 @@ Você deverá inserir:
 
 ### Fotografia do Arduino em funcionamento
 ![LED do Arduino](assets/led.jpeg)
+
+---
+
+## Parte 2: Simulando Blink Externo
+
+Nessa Parte 2, você deverá fazer uma **simulação no TinkerCad** com uma montagem do pisca-pisca utilizando o **Arduino Uno**.  
+Ao clicar em *Play* no TinkerCad, o projeto deve executar sem erros uma rotina que simula um pisca-pisca com qualquer cadência.
+
+O projeto deve conter:
+- Um **protoboard**  
+- **Ligações elétricas** corretas  
+- **LED externo (OFF_BOARD)**  
+- **Resistor**  
+- **Arduino Uno**
+
+---
+
+## Entrega Parte 2
+
+1. Envie o **link do seu projeto no TinkerCad** pela **Adalove**.  
+2. Obtenha o **código gerado no TinkerCad**, publique em seu **repositório pessoal do GitHub** e envie esse link no card correspondente.
+
+---
+
+## Evidência
+
+### Simulação no TinkerCad
+![Simulação no TinkerCad](assets/tinkercad_1.png)
