@@ -37,6 +37,10 @@ Você deverá inserir:
 ### Fotografia do Arduino em funcionamento
 ![LED do Arduino](assets/led.jpeg)
 
+### Vídeo de Demonstração
+[Assista ao vídeo localmente](assets/arduinovideo.mp4)
+
+
 ---
 
 ## Parte 2: Simulando Blink Externo
